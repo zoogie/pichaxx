@@ -2,7 +2,7 @@
 
 ## Intro
 
-This is a new (sorta) userland exploit for 3DS.
+This is a new (sorta) userland exploit for Pokemon Picross on 3DS.
 It was discovered and demonstrated by MrNbaYoh back in June 2016, and he documented it in 2017. Without him, this release wouldn't be possible.
 
 For US/EU/JP and old or new 3ds/2ds.
