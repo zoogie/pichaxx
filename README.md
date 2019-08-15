@@ -44,5 +44,7 @@ A: No! That's the original exploit name from MrNbaYoh and I kept it out of respe
 ## Greetz 
 
 - MrNbaYoh - first discovered this exploit
-- Yellows8 - for 3ds ropkit
+- Yellows8 - for https://github.com/yellows8/3ds_ropkit
 - Stary2001 - Haxfactory was a helpful demonstration on how to use 3ds_ropkit for otherapp
+- wwylele - for https://github.com/wwylele/3ds-save-tool
+- lory98 - for https://github.com/lory98/3ds-steelhax-encrypter
