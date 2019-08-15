@@ -29,16 +29,16 @@ Directions are provided in the Release archive.
 The following is taken from 3dbrew, written by MrNbaYoh:
 https://www.3dbrew.org/wiki/3DS_Userland_Flaws
 
-Pokemon Picross - Arbitrary memcpy via unchecked size 
+Pokemon Picross - Arbitrary memcpy via unchecked size<br>
 When reading the savefile, the game handles some lists of buffers that are copied to memory. These buffers should always be 0x14-bytes long but the game uses the size provided in the savefile to copy them.
 These buffers are copied in some structs and thus with a big enough length value, one can overwrite the next struct which contains a size and a destination address for a memcpy.
 
 ## Q&A 
 
-Q: Why didn't MrNbaYoh release this back in 2016?
+Q: Why didn't MrNbaYoh release this back in 2016?<br>
 A: It's probably better to ask him, but I assume it's because PASLR (homebrew exploit mitigation) was introduced for this game right before he could release pichaxx (there was no rememdy at the time). Another possible reason is he had other exploits that were better, so he just skipped it. Secondary exploits were also not as valuable back then because there was no seedminer to help install the hax save from a PC (you had to have another userland exploit to install it).
 
-Q: Did you come up with the name PICHAXX?
+Q: Did you come up with the name PICHAXX?<br>
 A: No! That's the original exploit name from MrNbaYoh and I kept it out of respect (totally not because I couldn't think of anything better ;p).
    
 ## Greetz 
