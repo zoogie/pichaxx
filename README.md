@@ -39,7 +39,7 @@ https://www.3dbrew.org/wiki/3DS_Userland_Flaws
 ## Q&A 
 
 Q: Why didn't MrNbaYoh release this back in 2016?<br>
-A: It's probably better to ask him, but I assume it's because PASLR (homebrew exploit mitigation) was introduced for this game right before he could release pichaxx (there was no rememdy at the time). Another possible reason is he had other exploits that were better, so he just skipped it. Secondary exploits were also not as valuable back then because there was no seedminer to help install the hax save from a PC (you had to have another userland exploit to install it).
+A: It's probably better to ask him, but I assume it's because PASLR (homebrew exploit mitigation) was introduced for this game right before he could release pichaxx (there was no remedy at the time). Another possible reason is he had other exploits that were better, so he just skipped it. Secondary exploits were also not as valuable back then because there was no seedminer to help install the hax save from a PC (you had to have another userland exploit to install it).
 
 Q: Did you come up with the name pichaxx?<br>
 A: No! That's the original exploit name from MrNbaYoh and I kept it out of respect (totally not because I couldn't think of anything better ;p).
