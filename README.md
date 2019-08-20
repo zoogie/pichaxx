@@ -11,12 +11,13 @@ For US/EU/JP and old or new 3ds/2ds.
 ## Why?
 
 Compared to Steelhax as a userland exploit, I can see these advantages:
-- 100% boot rate (in the ~35 tests I've done - YMMV). Steelhax is about 75%.
 - Less than half the file size (just 91MB). This can be an issue for people still using the tiny, Nintendo supplied 2-4 GB sd card.
-- Only one version exists - Steelhax's latest update isn't supported.
+- Only one version to choose from - Steelhax's latest update isn't supported. This avoids potential user confusion with downloading the wrong version.
 - Region free
 - Less files (other than the save file, just otherapp.bin)
-- Cuter icon!
+- Cuter icon ! (if you consider pikachu cuter than a giant war machine)
+!(pika)[https://kanzashi-ctr.cdn.nintendo.net/i/b8eb6c5c3318ff8bb13f71f8bb95b218bb639f09ae53814134183e9b3f869ff0.jpg]
+!(sub)[https://kanzashi-ctr.cdn.nintendo.net/i/c28581f4d68ac31d4ea287ca07a46f213fe05b5dfacb36ae708c61c076cb47aa.jpg]
 
 Mostly though, I had fun with Bannerbomb3 and just wanted to do another userland exploit.
 
