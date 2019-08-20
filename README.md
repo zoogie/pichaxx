@@ -15,7 +15,7 @@ Compared to Steelhax as a userland exploit, I can see these advantages:
 - Only one version to choose from - Steelhax's latest update isn't supported. This avoids potential user confusion with downloading the wrong version.
 - Region free
 - Less files (other than the save file, just otherapp.bin)
-- Cuter icon ! (if you consider pikachu cuter than a giant war machine)
+- Cuter icon ! (if you consider pikachu cuter than a giant war machine)<br>
 ![compare](3ds_ropkit/icon.jpg)
 
 Mostly though, I had fun with Bannerbomb3 and just wanted to do another userland exploit.
