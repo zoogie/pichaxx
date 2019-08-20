@@ -16,8 +16,7 @@ Compared to Steelhax as a userland exploit, I can see these advantages:
 - Region free
 - Less files (other than the save file, just otherapp.bin)
 - Cuter icon ! (if you consider pikachu cuter than a giant war machine)
-![pika](https://kanzashi-ctr.cdn.nintendo.net/i/b8eb6c5c3318ff8bb13f71f8bb95b218bb639f09ae53814134183e9b3f869ff0.jpg)
-![sub](https://kanzashi-ctr.cdn.nintendo.net/i/c28581f4d68ac31d4ea287ca07a46f213fe05b5dfacb36ae708c61c076cb47aa.jpg)
+![compare](3ds_ropkit/icon.jpg)
 
 Mostly though, I had fun with Bannerbomb3 and just wanted to do another userland exploit.
 
